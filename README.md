@@ -27,7 +27,7 @@ Everything about Azure
 * [SQL Database Migration Wizard](https://sqlazuremw.codeplex.com)
 * [NoSql - DocumentDB](https://azure.microsoft.com/en-us/services/documentdb/)
 
-##[Azure HSInsight](https://azure.microsoft.com/en-in/services/hdinsight/)
+##[Azure HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/)
 * [Apache Storm](https://azure.microsoft.com/en-in/services/hdinsight/apache-storm/)
 * [Apache Spark](https://azure.microsoft.com/en-in/services/hdinsight/apache-spark/)
 
