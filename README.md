@@ -1,6 +1,9 @@
 # awesome-azure
 Everything about Azure
 
+## General Guides
+* [Amazon to Azure Translation Guide](https://azure.microsoft.com/en-us/campaigns/azure-vs-aws/mapping/)
+
 ## Virtual Machines
 * [Instance types](https://azure.microsoft.com/en-in/pricing/details/virtual-machines/)
 * [Regions](https://azure.microsoft.com/en-us/regions/) and [available features](https://azure.microsoft.com/en-us/regions/#services)
