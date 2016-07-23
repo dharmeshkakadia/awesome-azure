@@ -51,11 +51,15 @@ Everything about Azure
 * [Visual Studio Online](https://www.visualstudio.com/en-us/features/azure-tools-vs.aspx)
 * [Eclipse and IntelliJ](https://github.com/microsoft/azure-tools-for-java)
 
+##Training and Certification
+* [Training and Certification](https://azure.microsoft.com/en-us/community/training/)
+
 ##Blogs
 * [Official Blog](https://azure.microsoft.com/en-us/blog/)
 
 ##Events
 * [AzureCon](https://azure.microsoft.com/en-us/azurecon/)
- * [2015](https://channel9.msdn.com/events/Microsoft-Azure/AzureCon-2015) 
+ * [2015](https://channel9.msdn.com/events/Microsoft-Azure/AzureCon-2015)
+ * [AzureConf 2014](https://channel9.msdn.com/events/Microsoft-Azure/AzureConf-2014)
 * [Build](https://azure.microsoft.com/en-us/campaigns/build-2016/)
 * [Azure Events](https://azure.microsoft.com/en-us/community/events/)
