@@ -53,3 +53,9 @@ Everything about Azure
 
 ##Blogs
 * [Official Blog](https://azure.microsoft.com/en-us/blog/)
+
+##Events
+* [AzureCon](https://azure.microsoft.com/en-us/azurecon/)
+ * [2015](https://channel9.msdn.com/events/Microsoft-Azure/AzureCon-2015) 
+* [Build](https://azure.microsoft.com/en-us/campaigns/build-2016/)
+* [Azure Events](https://azure.microsoft.com/en-us/community/events/)
