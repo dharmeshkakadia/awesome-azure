@@ -49,6 +49,7 @@ Everything about Azure
 
 ## IDE Integration
 * [Visual Studio Online](https://www.visualstudio.com/en-us/features/azure-tools-vs.aspx)
+* [Eclipse and IntelliJ](https://github.com/microsoft/azure-tools-for-java)
 
 ##Blogs
 * [Official Blog](https://azure.microsoft.com/en-us/blog/)
