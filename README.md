@@ -30,6 +30,14 @@ Everything about Azure
 ##[Azure HDInsight](https://azure.microsoft.com/en-in/services/hdinsight/)
 * [Apache Storm](https://azure.microsoft.com/en-in/services/hdinsight/apache-storm/)
 * [Apache Spark](https://azure.microsoft.com/en-in/services/hdinsight/apache-spark/)
+* [Hue](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-hue-linux/)
+* [HBase](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hbase-overview/)
+* [Hive](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-hive/)
+* [Pig](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-use-pig/)
+* [Kafka](https://github.com/hdinsight/hdinsight-storm-examples/tree/master/scripts/azure/HDInsight/Kafka)
+* [R Server](https://azure.microsoft.com/en-us/services/hdinsight/r-server/)
+* [Solr](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-solr-install-linux/)
+* [Giraph](https://azure.microsoft.com/en-us/documentation/articles/hdinsight-hadoop-giraph-install-linux/)
 
 ##[Azure Machine Learning](https://studio.azureml.net/)
 
